@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.about-me_header{
+    text-align: left;
+    font-size: 45px;
+
+}
+
+.about-me{
+    padding: 10px;
+    font-style: italic;
+}
+
+.about-me_skills{
+    
+}
+
+.intro{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 35px;
+}
